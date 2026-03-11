@@ -23,7 +23,13 @@ A desktop weather application built with Python and PyQt5 that retrieves real-ti
 - **Requests** – for HTTP requests
 - **OpenWeatherMap API** – weather data provider
 
-OpenWeatherMap provides weather data through an API that developers can integrate into applications.
+---
+
+## 🔑 API Key Setup
+
+This application uses the OpenWeatherMap API to retrieve weather data.
+
+To run the project, you need your own API key.
 
 https://openweathermap.org/api
 
