@@ -16,6 +16,11 @@ A desktop weather application built with Python and PyQt5 that retrieves real-ti
 
 ---
 
+## 📷 Screenshot
+
+
+---
+
 ## 🛠 Technologies Used
 
 - **Python**
