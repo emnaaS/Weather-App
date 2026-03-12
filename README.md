@@ -18,8 +18,8 @@ A desktop weather application built with Python and PyQt5 that retrieves real-ti
 
 ## 📷 Screenshot
 <p align="center">
-  <img src="images/Screenshot1.png" width="500">
-  <img src="images/Screenshot2.png" width="500">
+  <img src="images/Screenshot1.png" width="200">
+  <img src="images/Screenshot2.png" width="200">
 </p>
 
 ---
